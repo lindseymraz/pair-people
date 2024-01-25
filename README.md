@@ -1,6 +1,6 @@
 # Secret Santa
 
-Check it live on [lindseymraz.github.io/pair-people/](http://arcanis.github.io/pair-people/).
+Check it live on [lindseymraz.github.io/pair-people/](http://lindseymraz.github.io/pair-people/).
 
 ## License (MIT)
 
